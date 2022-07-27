@@ -1,17 +1,11 @@
 Samples:
-    10X_P4_3
-    #10X_P4_3_S1_L001
-    #sample IDs
+    10X_P4_3_S1_L001
+    # sample IDs
 
+# STAR generated index folder
 STAR_IND: /fs/cbsuvlaminck/workdir/fw262/denovoAssembly/STAR_indices/GRCm38_gencode.vM21
 
-GENOMEREF: /fs/cbsuvlaminck2/workdir/fw262/references/Hg38_Genome/hg38.fa
-REFGTF: /fs/cbsuvlaminck2/workdir/fw262/references/Hg38_Genome/gencode/gencode_v30_annotation.gtf
-CR_REF: refdata-gex-mm10-2020-A
-
-SAMPWDIR:   sampwdir
-DATADIR: data # directory where fastq files are stored
-TMPDIR: temp
+DATADIR: data # directory where raw fastq files are stored
 PIPELINE_MAJOR: results_out # folder where scRNA-seq expression matrices are going to be stored
 
 GLOBAL:
@@ -26,18 +20,9 @@ GLOBAL:
         length: 10
     total_length: 26
 
-MINIMAP: /programs/minimap2-2.17/minimap2
-PICARD: /programs/picard-tools-2.1.1/picard.jar
-DROPSEQ: /home/fw262/miniconda3/share/dropseq_tools-2.4.0-0
-GTFTOGENEPRED: /home/fw262/miniconda3/bin/gtfToGenePred # used to convert gtf to reFflat format, not needed if annotation is in reFflat
-STAREXEC: /programs/STAR-2.7.9a/bin/Linux_x86_64/STAR #/programs/STAR/STAR
-TRINITY_HOME: /programs/trinityrnaseq-Trinity-v2.8.4
-TADPOLE: /fs/cbsuvlaminck/workdir/fw262/miniconda3_2/bbtools/lib/tadpole.sh
-KRAKEN_DB: /fs/cbsuvlaminck3/workdir/fw262/denovoAssembly/Kraken/standardDB
-# full path of scripts folder
-#FULLSCRIPTPATH: #/local/workdir/fw262/uTARAnalysisTool/HMM-scRNA-seq/testGitHub/scripts
+# list of program locations
+STAREXEC: /programs/STAR-2.7.9a/bin/Linux_x86_64/STAR # path to STAR 
+KRAKEN: /programs/kraken2.09/kraken2 # path to Kraken2
+KRAKEN_DB: /fs/cbsuvlaminck3/workdir/fw262/denovoAssembly/Kraken/standardDB # Kraken database location
 
 CORES: 5 # how many cores to give for each process, snakemake automatically parallelize process using "snakemake -j {numTotalCores}"
-expectedCells: 5000
-MERGEBP: 500
-THRESH: 10000000

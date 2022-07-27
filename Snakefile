@@ -1,54 +1,26 @@
 #################################################
-# Roozbeh Abedini Nassab			#
-# Drop-Seq Snakemake pipeline			#
-# Adapted from the pipeline by Hoohm:		#
-# https://github.com/Hoohm/dropseqpipe		#
-# And Dr. De Vlaminck's work on it.		#
-# last edited July, 4, 2017			#
+# Michael Wang					#
+# Meta-scRNA-seq pipeline			#
+# https://github.com/fw262/Meta-scRNA-seq	#
 #################################################
 import pdb
-########################################################################################################
-#/home/fw262/miniconda3/share/dropseq_tools-1.13-0/home/fw262/miniconda3/share/dropseq_tools-1.13-0/home/fw262/miniconda3/share/dropseq_tools-1.13-0# Configfile
-########################################################################################################
 configfile:'config.yaml'
 ########################################################################################################
 # Variables and references
 ########################################################################################################
-SAMPLEWDIR = config['SAMPWDIR']
 MISMATCH = config['GLOBAL']['allowed_mismatch']
 DATADIR = config['DATADIR']
-GENOMEREF = config['GENOMEREF']
-TMPDIR = config['TMPDIR']
-gtffile=config['REFGTF']
-MERGEBP=str(config['MERGEBP'])
-THRESH=str(config['THRESH'])
-#FULLSCRIPTPATH=str(config['FULLSCRIPTPATH'])
-########################################################################################################
-# Executables
-########################################################################################################
-TMPDIR = config['TMPDIR']
-PICARD = config['PICARD']
-DROPSEQ = config['DROPSEQ']
 STAREXEC = config['STAREXEC']
+KRAKEN = config['KRAKEN']
 CORES = config['CORES']
-gtfToGenePred=config['GTFTOGENEPRED']
-TRINITY_HOME=config["TRINITY_HOME"]
-MINIMAP=config["MINIMAP"]
-TADPOLE=config["TADPOLE"]
 
 rule all:
 ############## original default call here
-	#input: expand('{PIPELINE_MAJOR}/{sample}/{sample}_kraken.out', PIPELINE_MAJOR=config['PIPELINE_MAJOR'], sample=config['Samples'])
-	#input: expand('{PIPELINE_MAJOR}/{sample}/{sample}_minimap_mapped.txt', PIPELINE_MAJOR=config['PIPELINE_MAJOR'], sample=config['Samples'])
-	#input: expand('{PIPELINE_MAJOR}/{sample}/{sample}_tadpole.fa', PIPELINE_MAJOR=config['PIPELINE_MAJOR'], sample=config['Samples'])
 	input: expand('{PIPELINE_MAJOR}/{sample}_solo/plots', PIPELINE_MAJOR=config['PIPELINE_MAJOR'], sample=config['Samples'])
-	#input: expand('{PIPELINE_MAJOR}/{sample}_solo/', PIPELINE_MAJOR=config['PIPELINE_MAJOR'], sample=config['Samples'])
-	#input: expand('{PIPELINE_MAJOR}/{sample}/{sample}_STARsolo', PIPELINE_MAJOR=config['PIPELINE_MAJOR'], sample=config['Samples'])
-	#input: 'kraken_combined.out'
 
 rule STARsolo:
-        input:  read1 = config['DATADIR']+'/{sample}_S1_L001_R1_001.fastq.gz',
-                read2 = config['DATADIR']+'/{sample}_S1_L001_R2_001.fastq.gz',
+        input:  read1 = config['DATADIR']+'/{sample}_R1_001.fastq.gz',
+                read2 = config['DATADIR']+'/{sample}_R2_001.fastq.gz',
                 index = config['STAR_IND']
         params: prefix = 'STAR_ind',
                 mismatch = MISMATCH,
@@ -99,7 +71,7 @@ rule getUnmappedReads:
 	threads: CORES
 	shell:
 		"""
-		kraken2 --use-names --db {params.krakenDB} <(samtools view -b -f 4 {input} | samtools fasta) | gzip > {output}
+		{KRAKEN} --use-names --db {params.krakenDB} <(samtools view -b -f 4 {input} | samtools fasta) | gzip > {output}
 		"""
 # extract cell barcode and UMI of unmapped reads
 rule unmappedBarcodes:
@@ -113,7 +85,6 @@ rule unmappedBarcodes:
 		"""
 		paste <(zcat {input.kraken}) <(samtools view -f 4 {input.bam} | grep -o -P '(?<=CB:Z:).*(?=UB:Z:)') <(samtools view -f 4 {input.bam} | grep -o -P '(?<=UB:Z:).*') | gzip > {output}
 		"""
-
 # remove duplicate UMIs in column 8
 rule removeUMIDuplicates:
 	input:
