@@ -11,7 +11,6 @@ This workflow requires the following packages listed below. Please ensure that t
 ### 2. [STAR Aligner](https://github.com/alexdobin/STAR/releases)
 ```
 conda install -c bioconda star
-```
 ### 3. [R, version 3.6 or greater](https://www.r-project.org/)
 Please also ensure that you have downloaded the following R packages. They will be used throughout the pipeline.
 - [Seurat, version 3](https://satijalab.org/seurat/install.html)
@@ -21,7 +20,6 @@ Please also ensure that you have downloaded the following R packages. They will 
 ### 4. [Samtools](http://www.htslib.org/)
 ```
 conda install -c bioconda samtools
-```
 ### 5. [Kraken2](https://ccb.jhu.edu/software/kraken2/)
 Please make sure this tool is available in your working environment. Please also download the reference database.
 
