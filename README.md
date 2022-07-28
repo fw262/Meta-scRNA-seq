@@ -1,6 +1,8 @@
 # Meta-scRNA-seq
 Author: Michael Wang (fw262@cornell.edu)
 
+![temp](https://user-images.githubusercontent.com/56937181/181630489-f6c5a482-b0ba-472c-8b6e-9471f7026444.png)
+
 ## Outline
 We developed meta-scRNA-seq, a pipeline for unbiased detection of non-host transcriptomic information from scRNA-seq data. To achieve this, meta-scRNA-seq aligns scRNA-seq data against the host-genome reference using standard approaches, collected single-cell tagged unmapped reads, labeled them based on sequence similarity against a large metagenomic database, and demultiplexed the reads to generate a cell-by-metagenome count matrix in parallel with the standard cell-by-gene (host) matrix.
 
@@ -8,25 +10,21 @@ We developed meta-scRNA-seq, a pipeline for unbiased detection of non-host trans
 This workflow requires the following packages listed below. Please ensure that tool can be called from the command line (i.e. the paths to each tool is in your path variable).
 
 ### 1. [Snakemake](https://snakemake.readthedocs.io/en/stable/)
-
 ### 2. [STAR Aligner](https://github.com/alexdobin/STAR/releases)
 ```
 conda install -c bioconda star
 ```
 ### 3. [R, version 3.6 or greater](https://www.r-project.org/)
-
 Please also ensure that you have downloaded the following R packages. They will be used throughout the pipeline.
 - [Seurat, version 3](https://satijalab.org/seurat/install.html)
 - [dplyr](https://www.r-project.org/nosvn/pandoc/dplyr.html)
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [argparse](https://cran.r-project.org/web/packages/argparse/index.html)
-
 ### 4. [Samtools](http://www.htslib.org/)
 ```
 conda install -c bioconda samtools
 ```
 ### 5. [Kraken2](https://ccb.jhu.edu/software/kraken2/)
-
 Please make sure this tool is available in your working environment. Please also download the reference database.
 
 ## Procedure
@@ -34,7 +32,7 @@ Please make sure this tool is available in your working environment. Please also
 ### 1. Clone this repository.
 Run the following command in your command line.
 ```
-git clone https://github.com/fw262/TAR-scRNA-seq
+git clone https://github.com/fw262/Meta-scRNA-seq.git
 ```
 
 ### 2. Download required software listed above.
@@ -43,32 +41,30 @@ Please ensure to include all required software before starting.
 
 ### 3. Store or link paired end sequencing files.
 
-Please combine and move the fastq files for each experiment into one data directory. Please ensure the sequence files end in "{sample}\_R1.fastq.gz" and "{sample}\_R2.fastq.gz" in your data directory.
+Please move raw fastq files for each experiment into one data directory. Please ensure the sequence files end in "{sample}\_R1_001.fastq.gz" and "{sample}\_R1_001.fastq.gz" in your data directory.
 
-### 4. Edit the config.yaml file for your experiment.
+### 4. Create the STAR reference of the host genome.
+
+### 5. Edit the config.yaml file for your experiment.
 
 Please change the variable names in the config.yaml as required for your analysis. This includes the following changes:
-- **Samples**: Samples prefix (before the \_R1.fastq.gz)
-- **GENOMEREF**: Path to your genome assembly file.
-- **REFGTF**: Path to your gene annotations in gtf format. **NOTE** If your gene annotation file is already in the refFlat format, please rename the annotation file to "refFlat.refFlat" and store in the same directory as the Snakefile and config.yaml files.
-- **SAMPWDIR**: Directory where summary information is stored.
-- **DATADIR**: Path to where the sequencing samples ({sample}\_R1.fastq.gz) are stored.
-- **TMPDIR**: Directory to store temporary files.
-- **PIPELINE_MAJOR**: Directory where the outputs (expression matrices, differentially expressed uTARs) are stored.
+- **Samples**: Samples prefix (before the \_R1_001.fastq.gz)
+- **STAR_IND**: Path to your STAR generated index folder.
+- **DATADIR**: Path to where the sequencing samples ({sample}\_R1_001.fastq.gz) are stored.
+- **PIPELINE_MAJOR**: Directory where the outputs (expression matrices, plots) are stored.
 - **GLOBAL**: Define global variables for pipeline including number of mismatches allowed in STAR, cell barcode base pair range in read 1, and UMI base pair range in read 1.
-- **PICARD**: Path to the picard tools .jar file.
-- **DROPSEQ**: Path to the Dropseq tools folder.
-- **GTFTOGENEPRED**: Path to gtfToGenePred tool. **NOTE** If your gene annotation file is already in the refFlat format, please rename the annotation file to "refFlat.refFlat" and store in the same directory as the Snakefile and config.yaml files.
-- **STAREXEC**: Path to the STAR aligner tool.
-- **BLASTDB**: Directory in which the nt BLAST database is stored.
-- **CORES**: Number of cores used in each step of the pipeline. To run multiple samples in parallel, please specify total number of cores in the snakemake command (i.e. "snakemake -j {total cores}").
-- **expectedCells**: Expected number of cells in each scRNA-seq experiment.
-- **MERGEBP**: Number of bases to merge in groHMM. Smaller numbers creates more TARs but takes longer to run. We recommend keeping the default value of 500.
-- **THRESH**: Used to set TARs coverage threshold. This is sequence depth dependent. Default coverage threshold set at 1 in 10,000,000 uniquely aligned reads. For example, if there are 500,000,000 total aligned reads, TARs with at least 50 reads are kept when **THRESH** is set to 10,000,000. A higher **THRESH** value increases the number of TARs kept after filtering. We recommend keeping the default value of 10000000.
+- **STAREXEC**: Path to STAR.
+- **KRAKEN**: Path to Kraken2.
+- **KRAKEN_DB**: Path to Kraken2 database.
 
-### 5. Run snakemake with the command "snakemake".
+- **CORES**: Number of cores used in each step of the pipeline. To run multiple samples in parallel, please specify total number of cores in the snakemake command (i.e. "snakemake -j {total cores}").
+
+### 6. Run snakemake with the command "snakemake".
 
 Please ensure the Snakefile and config.yaml files as well as the scripts folder are in the directory where you intend to run the pipeline.
+
+
+
 
 ## Test datset
 
