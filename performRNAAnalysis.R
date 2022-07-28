@@ -2,7 +2,7 @@
 suppressPackageStartupMessages(library("argparse"))
 suppressPackageStartupMessages(library("Seurat"))
 suppressPackageStartupMessages(library("ggplot2"))
-suppressPackageStartupMessages(library("dplyr"))
+#suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("plyr"))
 
 # create parser object
