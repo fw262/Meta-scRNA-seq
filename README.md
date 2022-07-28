@@ -59,7 +59,7 @@ Please change the variable names in the config.yaml as required for your analysi
 
 - **CORES**: Number of cores used in each step of the pipeline. To run multiple samples in parallel, please specify total number of cores in the snakemake command (i.e. "snakemake -j {total cores}").
 
-### 5. Run snakemake with the command "snakemake".
+### 6. Run snakemake with the command "snakemake".
 
 Please ensure the Snakefile and config.yaml files as well as the scripts folder are in the directory where you intend to run the pipeline.
 
