@@ -8,25 +8,21 @@ We developed meta-scRNA-seq, a pipeline for unbiased detection of non-host trans
 This workflow requires the following packages listed below. Please ensure that tool can be called from the command line (i.e. the paths to each tool is in your path variable).
 
 ### 1. [Snakemake](https://snakemake.readthedocs.io/en/stable/)
-
 ### 2. [STAR Aligner](https://github.com/alexdobin/STAR/releases)
 ```
 conda install -c bioconda star
 ```
 ### 3. [R, version 3.6 or greater](https://www.r-project.org/)
-
 Please also ensure that you have downloaded the following R packages. They will be used throughout the pipeline.
 - [Seurat, version 3](https://satijalab.org/seurat/install.html)
 - [dplyr](https://www.r-project.org/nosvn/pandoc/dplyr.html)
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [argparse](https://cran.r-project.org/web/packages/argparse/index.html)
-
 ### 4. [Samtools](http://www.htslib.org/)
 ```
 conda install -c bioconda samtools
 ```
 ### 5. [Kraken2](https://ccb.jhu.edu/software/kraken2/)
-
 Please make sure this tool is available in your working environment. Please also download the reference database.
 
 ## Procedure
