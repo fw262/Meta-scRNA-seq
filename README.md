@@ -9,48 +9,25 @@ This workflow requires the following packages listed below. Please ensure that t
 
 ### 1. [Snakemake](https://snakemake.readthedocs.io/en/stable/)
 
-### 2. [Drop-seq Computational Tools v2.3.0](https://github.com/broadinstitute/Drop-seq/releases)
-Run the following command in your command line.
-```
-conda install -c bioconda dropseq_tools
-```
-### 3. [Picard Tools, version 2.18.29-0 or greater](https://broadinstitute.github.io/picard/)
-```
-conda install -c bioconda picard
-```
-### 4. [STAR Aligner](https://github.com/alexdobin/STAR/releases)
+### 2. [STAR Aligner](https://github.com/alexdobin/STAR/releases)
 ```
 conda install -c bioconda star
 ```
-### 5. [R, version 3.6 or greater](https://www.r-project.org/)
+### 3. [R, version 3.6 or greater](https://www.r-project.org/)
 
 Please also ensure that you have downloaded the following R packages. They will be used throughout the pipeline.
-- [BiocManager](https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocManager.html)
-- [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html)
-- [groHMM](https://www.bioconductor.org/packages/release/bioc/html/groHMM.html)
-- [Seurat, version 3.2.1](https://satijalab.org/seurat/install.html)
-- [data.table](https://github.com/Rdatatable/data.table)
+- [Seurat, version 3](https://satijalab.org/seurat/install.html)
 - [dplyr](https://www.r-project.org/nosvn/pandoc/dplyr.html)
-- [stringr](https://cran.r-project.org/web/packages/stringr/readme/README.html)
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [argparse](https://cran.r-project.org/web/packages/argparse/index.html)
 
-### 6. [Samtools](http://www.htslib.org/)
+### 4. [Samtools](http://www.htslib.org/)
 ```
 conda install -c bioconda samtools
 ```
-### 7. [GtfToGenePred](https://bioconda.github.io/recipes/ucsc-gtftogenepred/README.html)
-This tool is used to convert gtf annotation files to refFlat format.
-```
-conda install -c bioconda ucsc-gtftogenepred
-```
-### 8. [Bedtools](https://bedtools.readthedocs.io/en/latest/content/installation.html)
+### 5. [Kraken2](https://ccb.jhu.edu/software/kraken2/)
 
-Please make sure this tool is available in your working environment.
-```
-conda install -c bioconda bedtools
-```
-### 9. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
-
-**Please also download the nt database.**
+Please make sure this tool is available in your working environment. Please also download the reference database.
 
 ## Procedure
 
