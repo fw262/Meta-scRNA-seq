@@ -18,6 +18,7 @@ conda install -c bioconda star
 Please also ensure that you have downloaded the following R packages. They will be used throughout the pipeline.
 - [Seurat, version 3](https://satijalab.org/seurat/install.html)
 - [dplyr](https://www.r-project.org/nosvn/pandoc/dplyr.html)
+- [plyr](https://www.rdocumentation.org/packages/plyr/versions/1.8.7)
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [argparse](https://cran.r-project.org/web/packages/argparse/index.html)
 ### 4. [Samtools](http://www.htslib.org/)
