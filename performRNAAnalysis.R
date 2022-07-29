@@ -4,12 +4,13 @@ suppressPackageStartupMessages(library("Seurat"))
 suppressPackageStartupMessages(library("ggplot2"))
 suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("plyr"))
+suppressPackageStartupMessages(library("DropletUtils"))
 
-# create parser object
+ # create parser object
 parser <- ArgumentParser()
 
 parser$add_argument("-m", "--expressionMatrix",
-                    help="Folder contatining filtered_feature_bc_matrix generated from cellranger count.",
+                    help="Folder containing filtered_feature_bc_matrix generated from cellranger count.",
                     metavar="directory")
 parser$add_argument("-k", "--krakenFile",
                     help="File containing single cell tags with Kraken output",
@@ -154,4 +155,8 @@ if(length(markersToPlotAll)>0){
          path=paste0(dirname(args$krakenFile),"/plots/"))
   print("Saved all unmapped features.")
 }
+
+# save merged transcriptomic and metagenomic data
+mergedMatPath<-paste0(dirname(args$krakenFile),"/Solo.out/merged")
+write10xCounts(x = seuratObj@assays$RNA@counts, path = mergedMatPath)
 
