@@ -21,6 +21,7 @@ Please also ensure that you have downloaded the following R packages. They will 
 - [plyr](https://www.rdocumentation.org/packages/plyr/versions/1.8.7)
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [argparse](https://cran.r-project.org/web/packages/argparse/index.html)
+- [DropletUtils](https://bioconductor.org/packages/release/bioc/html/DropletUtils.html)
 ### 4. [Samtools](http://www.htslib.org/)
 ```
 conda install -c bioconda samtools
