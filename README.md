@@ -66,7 +66,8 @@ Please change the variable names in the config.yaml as required for your analysi
 Please ensure the Snakefile and config.yaml files as well as the scripts folder are in the directory where you intend to run the pipeline.
 
 ## Output
-
+- Merged transcriptome + metagenomice expression matrices are stored in "**[PIPELINE_MAJOR]/[Samples]_solo/Solo.out/merged**" folder.
+- The "**[PIPELINE_MAJOR]/[Samples]_solo/plots**" folder contains several useful plots including UMAP projection of the data, level of unmapped reads for each cell cluster, as well as cell-cluster specific expression of all metagenomic features, differentially expressed genes, and differentially expressed metagenomic features.
 - RefFlat format of TAR features with and without consideration of directionality stored in "**TAR_reads.bed.gz.withDir.refFlat.refFlat**" and "**TAR_reads.bed.gz.noDir.refFlat.refFlat**".
 - Digital expression matrix for gene features is stored in "**results_out/{sample}/{sample}\_gene_expression_matrix.txt.gz**".
 - Digital expression matrix for TAR features, without consideration of TAR directionality relative to annotated gene features, is stored in "**results_out/{sample}/{sample}\_TAR_expression_matrix_noDir.txt.gz**".
