@@ -85,17 +85,7 @@ rule unmappedBarcodes:
 		"""
 		paste <(zcat {input.kraken}) <(samtools view -f 4 {input.bam} | grep -o -P '(?<=CB:Z:).*(?=UB:Z:)') <(samtools view -f 4 {input.bam} | grep -o -P '(?<=UB:Z:).*') | gzip > {output}
 		"""
-# remove duplicate UMIs in column 8
-rule removeUMIDuplicates:
-	input:
-		'{path}/{sample}_solo/Kraken_barcodes.txt.gz'
-	output:
-		'{path}/{sample}_solo/Kraken_barcodes2.txt.gz'
-	threads: CORES
-	shell:
-		"""
-		zcat {input} | awk '!seen[$8]++' | gzip > {output}
-		"""
+
 rule gzipCountMatrices:
 	input: '{path}/{sample}_solo/Aligned.sortedByCoord.out.bam'
 	params: '{path}/{sample}_solo/Solo.out/Gene/filtered'
@@ -109,7 +99,7 @@ rule gzipCountMatrices:
 rule generateSeuratPlots:
 	input:
 		expMat='{path}/{sample}_solo/Solo.out/Gene/filtered/barcodes.tsv.gz',
-		kraken='{path}/{sample}_solo/Kraken_barcodes2.txt.gz',
+		kraken='{path}/{sample}_solo/Kraken_barcodes.txt.gz',
 	output:
 		directory('{path}/{sample}_solo/plots')
 	threads: 1
