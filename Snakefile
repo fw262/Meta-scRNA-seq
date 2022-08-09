@@ -79,7 +79,7 @@ rule unmappedBarcodes:
 		bam='{path}/{sample}_solo/Aligned.sortedByCoord.out.bam',
 		kraken='{path}/{sample}_solo/possorted_bam_kraken2.out.gz'
 	output:
-		temp('{path}/{sample}_solo/Kraken_barcodes.txt.gz')
+		'{path}/{sample}_solo/Kraken_barcodes.txt.gz'
 	threads: CORES
 	shell:
 		"""
