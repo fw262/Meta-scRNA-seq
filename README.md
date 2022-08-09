@@ -21,6 +21,7 @@ Please also ensure that you have downloaded the following R packages. They will 
 - [plyr](https://www.rdocumentation.org/packages/plyr/versions/1.8.7)
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [argparse](https://cran.r-project.org/web/packages/argparse/index.html)
+- [DropletUtils](https://bioconductor.org/packages/release/bioc/html/DropletUtils.html)
 ### 4. [Samtools](http://www.htslib.org/)
 ```
 conda install -c bioconda samtools
@@ -64,76 +65,6 @@ Please change the variable names in the config.yaml as required for your analysi
 
 Please ensure the Snakefile and config.yaml files as well as the scripts folder are in the directory where you intend to run the pipeline.
 
-
-
-
-## Test datset
-
-A subset of the chicken embryonic heart development sequencing data is attached in the **testData_small** folder. To download the corresponding references for this chicken dataset, please visit https://useast.ensembl.org/Gallus_gallus/Info/Index. The full chicken embryonic heart development dataset is available at [GSE149457](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149457). Please note that full expression matrices (gene and unstranded TAR) are also included for the day 4 and day 7 datasets in the **testData_small** folder.
-
-
-To generate expression matrices (gene, stranded and unstranded TAR), please run the snakemake rule "getMats" with the following command:
-```
-snakemake -R --until getMats -j [# cores]
-```
-
-The generation of genome indices using STAR will take considerable time. Assuming the genome indices are available, the test dataset should take less than 15 minutes to generate expression matrices with 12 cores and 16GB of RAM.
-
-To test the labeling of differentially expressed uTARs through scRNA-seq and BLASTn analysis (after issuing the command above), please move the expression matrices in the **testData_small** folder to the corresponding results folder with the following commands:
-```
-cp testData_small/day7_0.25m_*expression_matrix* results_chicken/day7_0.25m/
-cp testData_small/day4_0.25m_*expression_matrix* results_chicken/day4_0.25m/
-```
-
-To run the full pipeline including generating a list of labeled differentially expressed uTARs, run the default snakemake command:
-```
-snakemake -j [# cores]
-```
-
-Assuming the expression matrices are available, the test dataset should take less than 30 minutes to generate a list of labeled uTARs with 12 cores and 16GB of RAM.
-
-
-## Generating TAR annotations for full length Smart-seq2 (SS2) data
-
-To generate TAR annotations (gtf format) from SS2 data, run scripts/SingleCellHMM_MW_SS2.bash file.
-```
-bash scripts/SingleCellHMM_MW_SS2.bash [bam file] [gene annotations in refFlat format]
-```
-
 ## Output
-
-- RefFlat format of TAR features with and without consideration of directionality stored in "**TAR_reads.bed.gz.withDir.refFlat.refFlat**" and "**TAR_reads.bed.gz.noDir.refFlat.refFlat**".
-- Digital expression matrix for gene features is stored in "**results_out/{sample}/{sample}\_gene_expression_matrix.txt.gz**".
-- Digital expression matrix for TAR features, without consideration of TAR directionality relative to annotated gene features, is stored in "**results_out/{sample}/{sample}\_TAR_expression_matrix_noDir.txt.gz**".
-- Digital expression matrix for TAR features, with consideration of TAR directionality relative to annotated gene features, is stored in "**results_out/{sample}/{sample}\_TAR_expression_matrix_withDir.txt.gz**".
-- A list of differentially expressed genes and uTARs in "**results_out/{sample}/{sample}\_diffMarkers.txt**".
-- A list of differentially expressed uTARs and their labels based on BLASTn results in "**results_out/{sample}/{sample}\_diffuTARMarkersLabeled.txt**".
-- Results of the BLASTn analysis for differentially expressed uTARs in "**results_out/{sample}/{sample}\_blastResults.txt**".
-
-### Format of TAR feature label
-
-TAR features, listed in the refFlat and expression matrix files, are named based on their position, total coverage, and whether they overlap with an existing gene annotation. Examples listed below
-
-- **chr3_40767549_40767699_+\_187_0** means that this TAR feature is located at chr3:40767549-40767699 on the positive strand with a total read coverage of 187. The "\_0" means that this is a **uTAR** feature, no overlap with an existing gene annotation.
-- **chr6_42888199_42888349_-\_983_RPS6KA2_+\_1** means that this TAR feature is located at chr6:42888199-42888349 on the negative strand with a total read coverage of 983. This feature overlaps in genomic position with the gene annotated as RPS6KA2, which is annotated on the positive strand. The "\_1" means that this is an **aTAR** feature overlapping an existing gene annotation without considering directionality.
-
-## Data Availability
-
-The following publicly available datasets are used in the manuscript.
-
-- [Human PBMC data](https://support.10xgenomics.com/single-cell-gene-expression/datasets/2.1.0/pbmc4k?)
-- [Mouse Atlas](https://tabula-muris.ds.czbiohub.org/), [GSE109774](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109774)
-- Naked mole rat spleen data [GSE132642](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132642)
-- Sea urchin embryo data [GSE134350](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134350)
-- Chicken embryonic heart [GSE149457](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149457)
-- Mouse lemur
-
-## Frequently Asked Questions (FAQs)
-
-### 1. Error in rule calcHMMrefFlat stating "Error in read.table(file = file, header = header, sep = sep, quote = quote,  : no lines available in input".
-
-Please refer to the "SingleCellHMM_Run_combined_bam_HMM_features.log" created in the same directory as your Snakefile. You will likely see the following error:
-```
-cannot read: chr*_HMM.bed: No such file or directory
-```
-Please manually install [groHMM](https://bioconductor.org/packages/release/bioc/html/groHMM.html) and [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html) and make sure you can load these packages in R. This error indicates that the groHMM R script did not finish running to generate groHMM bed files.
+- Merged transcriptome + metagenomice expression matrices are stored in "**[PIPELINE_MAJOR]/[Samples]_solo/Solo.out/merged**" folder.
+- The "**[PIPELINE_MAJOR]/[Samples]_solo/plots**" folder contains several useful plots including UMAP projection of the data, level of unmapped reads for each cell cluster, as well as cell-cluster specific expression of all metagenomic features, differentially expressed genes, and differentially expressed metagenomic features.
