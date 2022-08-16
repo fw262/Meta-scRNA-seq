@@ -1,0 +1,122 @@
+SRR ID,tissue,cellType,treatment,stage,source,patient,study
+SRR10257261,EGFR-mutant NSCLC cell line,PC9,DMSO,No info,in vitro,No info,GSE131604
+SRR10257262,EGFR-mutant NSCLC cell line,PC9,DMSO,No info,in vitro,No info,GSE131604
+SRR10257263,EGFR-mutant NSCLC cell line,PC9,DMSO,No info,in vitro,No info,GSE131604
+SRR10257264,EGFR-mutant NSCLC cell line,PC9,DMSO,No info,in vitro,No info,GSE131604
+SRR10257265,EGFR-mutant NSCLC cell line,PC9,osimertinib + trametinib,No info,in vitro,No info,GSE131604
+SRR10353960,brain tumor,freshly sorted glioblastoma cells,No info,No info,primary,No info,GSE139448
+SRR10353961,brain tumor,freshly sorted glioblastoma cells,No info,No info,primary,No info,GSE139448
+SRR10353962,brain tumor,freshly sorted glioblastoma cells,No info,No info,primary,No info,GSE139448
+SRR10439454,small intestine,tumor,No info,No info,primary,No info,GSE140312
+SRR10439455,liver,metastatic tumor,No info,No info,primary,No info,GSE140312
+SRR8325947,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325948,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325949,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325950,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325951,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325952,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325953,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325954,lung,adenocarcinoma,No info,1A,primary,MSK_LX653,GSE123904
+SRR8325955,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325956,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325957,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325958,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325959,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325960,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325961,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325962,lung,adenocarcinoma,No info,1A,primary,MSK_LX661,GSE123904
+SRR8325964,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325965,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325966,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325967,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325968,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325969,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325970,lung,metastasis to bone,chemotherapy,IV,primary,MSK_LX666,GSE123904
+SRR8325971,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325972,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325973,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325974,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325975,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325976,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325977,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325978,lung,adenocarcinoma,No info,IV,primary,MSK_LX675,GSE123904
+SRR8325979,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325980,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325981,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325982,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325983,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325984,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325985,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325986,lung,Non-tumour,No info,No info,primary,MSK_LX675,GSE123904
+SRR8325987,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325988,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325989,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325990,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325991,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325992,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325993,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325994,lung,adenocarcinoma,No info,1A,primary,MSK_LX676,GSE123904
+SRR8325995,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8325996,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8325997,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8325998,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8325999,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8326000,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8326001,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8326002,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX255B,GSE123904
+SRR8326003,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326004,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326005,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326006,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326007,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326008,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326009,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326010,lung,adenocarcinoma,chemotherapy,IIA,primary,MSK_LX679,GSE123904
+SRR8326012,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326013,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326014,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326015,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326016,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326017,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326018,lung,adenocarcinoma,No info,IB,primary,MSK_LX680,GSE123904
+SRR8326021,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX681,GSE123904
+SRR8326024,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX681,GSE123904
+SRR8326026,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX681,GSE123904
+SRR8326027,lung,adenocarcinoma,No info,IB,primary,MSK_LX682,GSE123904
+SRR8326029,lung,adenocarcinoma,No info,IB,primary,MSK_LX682,GSE123904
+SRR8326030,lung,adenocarcinoma,No info,IB,primary,MSK_LX682,GSE123904
+SRR8326032,lung,adenocarcinoma,No info,IB,primary,MSK_LX682,GSE123904
+SRR8326033,lung,adenocarcinoma,No info,IB,primary,MSK_LX682,GSE123904
+SRR8326035,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326036,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326037,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326038,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326039,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326040,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326041,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326042,lung,Non-tumour,No info,No info,primary,MSK_LX682,GSE123904
+SRR8326043,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326044,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326045,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326046,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326047,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326048,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326049,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326050,lung,adenocarcinoma,No info,IA,primary,MSK_LX684,GSE123904
+SRR8326051,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326052,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326053,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326055,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326056,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326057,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326058,lung,Non-tumour,No info,No info,primary,MSK_LX684,GSE123904
+SRR8326059,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326060,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326061,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326062,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326063,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326064,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326065,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326066,lung,Non-tumour,No info,No info,primary,MSK_LX685,GSE123904
+SRR8326067,lung,metastasis to adrenal,chemotherapy,IV,primary,MSK_LX699,GSE123904
+SRR8326068,lung,metastasis to brain,chemotherapy,IV,primary,MSK_LX701,GSE123904
