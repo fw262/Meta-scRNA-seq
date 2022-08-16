@@ -1,0 +1,736 @@
+SRR ID	sequencer	tissue	institute	lab	country	study
+SRR10202213	Illumina HiSeq 4000	Eye	Duke University	No info	USA	GSE126783
+SRR10870296	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870297	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870298	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870299	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870301	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870302	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870303	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870304	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10870305	Illumina NextSeq 500	Tibialis anterior	Cornell University	Cosgrove Laboratory	USA	GSE143437
+SRR10909674	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909675	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909676	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909677	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909678	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909679	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909680	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909681	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909682	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909683	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909684	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909685	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909686	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909687	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909688	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909689	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909690	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909691	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909692	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10909693	Illumina NextSeq 500	Digit tip	Brigham and Women's Hospital	No info	USA	GSE143888
+SRR10916593	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916594	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916595	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916596	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916597	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916598	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916599	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916600	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916601	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916602	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916603	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916604	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916605	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916606	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916607	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916608	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916609	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916610	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916643	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916644	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916645	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR10916646	Illumina HiSeq 2000	Brain	Hebrew University of Jerusalem	Habib Lab	Israel	GSE143758
+SRR11085188	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085189	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085190	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085191	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085192	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085193	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085194	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085195	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085196	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085197	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085198	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085199	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085200	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085201	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085202	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085203	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085204	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085206	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085207	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085208	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085209	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085210	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11085211	Illumina NextSeq 500	Synovial tissue	Brigham and Women's Hospital	Raychaudhuri	USA	GSE145286
+SRR11537971	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537972	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537973	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537974	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537975	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537976	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537977	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537978	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537979	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537980	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537981	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537992	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537993	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537994	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537995	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537996	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537997	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537998	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11537999	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538000	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538001	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538016	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538017	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538018	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538019	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538020	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538021	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538022	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538023	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538024	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538025	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538026	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538027	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538028	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538029	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538034	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538035	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538036	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538037	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538038	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538039	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538060	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538061	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538062	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538063	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538064	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538065	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538080	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538081	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538082	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538083	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538084	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538085	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538086	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538087	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538088	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538089	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538090	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538091	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538092	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538093	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11538094	Illumina HiSeq 2500	Prostate	Broad Institute	Regev Lab	USA	GSE146811
+SRR11575130	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575131	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575132	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575133	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575134	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575135	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575136	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575137	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575138	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575139	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575140	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575141	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575142	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575143	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575144	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575145	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575146	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575147	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575148	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575149	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575150	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575151	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575152	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575153	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575154	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575155	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575156	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575157	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575158	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575159	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575160	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575161	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575162	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575163	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575164	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575165	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575166	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575167	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575168	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575169	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575170	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575171	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575172	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575173	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575174	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575175	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575176	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575177	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575178	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575179	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575180	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575181	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575182	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575183	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575184	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575185	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575186	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575187	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575188	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575189	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575190	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575191	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575192	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575193	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575194	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575195	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575196	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575197	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575198	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575199	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575200	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575201	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575202	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575203	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575204	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575205	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575206	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575207	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575208	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575209	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575210	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575212	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575213	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575214	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575215	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575216	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575217	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575218	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575219	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575220	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575221	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575222	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575223	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575224	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575225	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575226	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575227	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575228	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575229	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575230	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575231	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575232	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575233	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575234	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575235	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575236	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575237	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575238	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575239	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575240	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575241	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575242	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575243	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575244	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575245	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575246	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575247	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575248	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575249	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575250	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575251	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575252	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575253	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575254	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575255	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575256	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575257	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575258	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575259	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575260	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575261	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575262	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575263	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575264	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575265	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575266	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575267	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575268	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575269	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575270	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575271	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575272	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575273	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575274	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575275	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575276	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575277	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575278	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575279	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575280	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575281	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575282	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575283	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575284	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575285	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575286	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575287	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575288	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575289	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575290	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575291	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575292	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575293	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575294	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575295	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575296	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575297	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575298	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575299	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575300	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575301	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575302	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575303	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575304	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575305	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575306	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575307	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575308	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575309	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575310	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575311	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575312	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575313	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575314	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575315	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575316	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575317	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575318	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575319	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575320	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11575321	Illumina HiSeq 2500	Breast	University of Cambridge	WTK lab	United Kingdom	GSE106273
+SRR11688494	Illumina HiSeq 2500	Brain	Icahn School of Medicine at Mount Sinai	No info	USA	GSE149897
+SRR11688495	Illumina HiSeq 2500	Brain	Icahn School of Medicine at Mount Sinai	No info	USA	GSE149897
+SRR13348097	Illumina NextSeq 500	Intestine	Koch Institute at MIT	No info	USA	GSE112205
+SRR13348098	Illumina NextSeq 500	Intestine	Koch Institute at MIT	No info	USA	GSE112205
+SRR13348099	Illumina NextSeq 500	Intestine	Koch Institute at MIT	No info	USA	GSE112205
+SRR13348100	Illumina NextSeq 500	Intestine	Koch Institute at MIT	No info	USA	GSE112205
+SRR13786506	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786507	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786508	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786509	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786510	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786511	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786512	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786513	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786514	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786515	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786516	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786517	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786518	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786519	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786520	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR13786521	Illumina NovaSeq 6000	Embryo	Cambridge University	No info	United Kingdom	GSE167576
+SRR6011532	Illumina HiSeq 2500	Embryo	Whitehead Institute for Biomedical Research	Young Lab	USA	GSE103574
+SRR6011533	Illumina HiSeq 2500	Embryo	Whitehead Institute for Biomedical Research	Young Lab	USA	GSE103574
+SRR6337197	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337198	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337199	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337200	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337201	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337202	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337203	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337204	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337205	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337206	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337207	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337208	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337209	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337210	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337211	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337212	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337213	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337214	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337215	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337216	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337217	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337218	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337219	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337220	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337221	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337222	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337224	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337225	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337226	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337227	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337228	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337229	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337230	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR6337231	Illumina HiSeq 2000	Kidney	GWANGJU INSTITUTE OF SCIENCE /TECHNOLOGY	No info	South Korea	GSE107585
+SRR7444152	Illumina NextSeq 500	Lung	Cedars Sinai Medical Center	No info	USA	GSE115982
+SRR7444153	Illumina NextSeq 500	Lung	Cedars Sinai Medical Center	No info	USA	GSE115982
+SRR8106106	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106108	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106109	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106110	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106111	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106112	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106113	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106114	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106115	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106116	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106117	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106118	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106119	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106120	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106121	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106122	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106123	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106124	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106125	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106126	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106127	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106128	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106129	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106130	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106131	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106132	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106133	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106134	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106135	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106136	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106137	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106138	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106139	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106140	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106141	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106142	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106143	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106144	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106145	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106146	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106147	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106148	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106149	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106150	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106151	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106152	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106153	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106154	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106155	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106156	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106157	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106158	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106159	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106160	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106161	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106162	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106163	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106164	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106165	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106166	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106167	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106169	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106172	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106178	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106179	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106180	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106182	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106183	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106184	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106185	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106186	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106187	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106188	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106189	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106190	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106191	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106192	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106193	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106194	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106195	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106196	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106197	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106198	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106199	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106200	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106201	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106202	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106203	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106204	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106206	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106207	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106208	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106209	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106210	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106211	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106212	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106213	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106214	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106215	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106216	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106217	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106218	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106219	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106220	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106221	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106222	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106223	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106224	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106225	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106226	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106227	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106228	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8106229	Illumina NextSeq 500	Brain	Sanofi	No info	USA	GSE121654
+SRR8126374	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126375	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126376	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126377	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126378	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126379	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126380	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126381	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126382	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126383	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126384	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126385	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126386	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126387	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126388	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126389	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126390	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126391	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126392	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126393	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126394	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126395	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126396	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8126397	Illumina NextSeq 500	Brain	Broad Institute of MIT and Harvard	No info	USA	GSE121891
+SRR8144863	Illumina HiSeq 2500	Skin	Yale University	Choate	USA	GSE122043
+SRR8144864	Illumina HiSeq 2500	Skin	Yale University	Choate	USA	GSE122043
+SRR8144867	Illumina HiSeq 2500	Skin	Yale University	Choate	USA	GSE122043
+SRR8144868	Illumina HiSeq 2500	Skin	Yale University	Choate	USA	GSE122043
+SRR8165386	Illumina HiSeq 2500	Mouth	UCSF	Klein Lab	USA	GSE120654
+SRR8165387	Illumina HiSeq 2500	Mouth	UCSF	Klein Lab	USA	GSE120654
+SRR8284731	Illumina HiSeq 4000	unlabeled	Hannover Medical School	No info	Germany	GSE123400
+SRR8284732	Illumina HiSeq 4000	unlabeled	Hannover Medical School	No info	Germany	GSE123400
+SRR8284733	Illumina HiSeq 4000	unlabeled	Hannover Medical School	No info	Germany	GSE123400
+SRR8284734	Illumina HiSeq 4000	unlabeled	Hannover Medical School	No info	Germany	GSE123400
+SRR8309845	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309846	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309847	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309848	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309849	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309850	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309851	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309853	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309854	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309855	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309856	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309857	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309858	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309859	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8309860	Illumina NextSeq 500	unlabeled	Humanitas Research Hospital	No info	Italy	GSE123508
+SRR8310803	Illumina HiSeq 4000	Aorta	NYU Langone	No info	USA	GSE123587
+SRR8427519	Illumina HiSeq 4000	Testis	Washington State University	Jon Oatley	USA	GSE124904
+SRR8427521	Illumina HiSeq 4000	Testis	Washington State University	Jon Oatley	USA	GSE124904
+SRR8427522	Illumina HiSeq 4000	Testis	Washington State University	Jon Oatley	USA	GSE124904
+SRR8427525	Illumina HiSeq 4000	Testis	Washington State University	Jon Oatley	USA	GSE124904
+SRR8427526	Illumina HiSeq 4000	Testis	Washington State University	Jon Oatley	USA	GSE124904
+SRR8441476	Illumina HiSeq 4000	Brain	The Jackson Laboratory	No info	USA	GSE125065
+SRR8441477	Illumina HiSeq 4000	Brain	The Jackson Laboratory	No info	USA	GSE125065
+SRR8457095	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457096	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457097	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457098	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457099	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457100	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457101	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457102	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457103	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457104	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457105	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457106	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457107	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457108	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457109	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457110	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457111	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457112	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457113	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457114	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457115	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457116	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457117	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457118	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457119	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457120	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457121	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457122	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457123	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457124	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457125	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8457126	Illumina NovaSeq 6000	Spleen	University of Minnesota	Binstadt	USA	GSE125316
+SRR8485290	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485291	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485292	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485293	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485294	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485295	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485296	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485297	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485298	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485299	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485300	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485301	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485302	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485303	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485304	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485305	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485306	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485307	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485308	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8485309	Illumina NextSeq 500	Pancreas	MD Anderson Cancer Center	No info	USA	GSE125588
+SRR8571782	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571783	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571784	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571785	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571786	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571787	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571788	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571789	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571790	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571791	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571792	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571793	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571794	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571795	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571796	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8571797	Illumina NextSeq 500	Brain	University at Buffalo, The State University of New York	No info	USA	GSE126480
+SRR8753656	Illumina HiSeq 4000	unlabeled	Hannover Medical School	No info	Germany	GSE123400
+SRR8958145	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958146	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958147	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958148	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958149	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958150	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958151	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR8958152	Illumina NextSeq 500	Testis	Cornell University	Biotechnology Building rm 333	USA	GSE121904
+SRR9007780	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007781	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007782	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007783	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007784	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007785	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007786	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007787	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007788	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007789	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007790	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007791	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007792	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007793	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007794	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007795	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007796	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007797	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007798	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007799	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007800	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007801	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007802	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007803	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007804	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007805	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007806	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007807	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007808	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007809	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007810	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007811	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007812	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007813	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007814	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007815	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007816	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007817	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007818	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007819	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007820	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007821	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007822	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9007823	Illumina NextSeq 500	Heart	UC San Diego	Bing Ren Lab	USA	GSE130699
+SRR9054127	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9054130	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9054132	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9054133	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9054134	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9054136	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9054137	Illumina NextSeq 500	Heart	Broad Institute of MIT and Harvard	No info	USA	GSE131181
+SRR9201791	Illumina HiSeq 4000	Pancreas	Helmholtz Zentrum Munich	No info	Germany	GSE132188
+SRR9201794	Illumina HiSeq 4000	Pancreas	Helmholtz Zentrum Munich	No info	Germany	GSE132188
+SRR9260613	Illumina HiSeq 4000	Face	University of Colorado Denver Anschutz Medical Campus	Trevor Williams	USA	GSE132462
+SRR9264140	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264141	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264142	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264143	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264144	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264145	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264146	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264147	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264148	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264149	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264150	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264151	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264158	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264160	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264163	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264164	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264165	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264166	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264167	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264168	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264169	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264170	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264171	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264172	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264173	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264174	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264175	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264176	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264182	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9264184	Illumina HiSeq 4000	unlabeled	University of Cambridge	Alfonso Martinez Arias lab	United Kingdom	GSE132504
+SRR9290711	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290712	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290713	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290714	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290715	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290716	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290717	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9290718	Illumina HiSeq 4000	Heart	Stanford University	Sean M. Wu	USA	GSE132658
+SRR9669980	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669981	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669982	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669983	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669984	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669985	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669986	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
+SRR9669987	Illumina NovaSeq 6000	Liver	University of Bern	Visceral Surgery	Switzerland	GSE134134
