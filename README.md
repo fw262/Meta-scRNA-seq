@@ -1,7 +1,7 @@
 # Meta-scRNA-seq
 Author: Michael Wang (fw262@cornell.edu)
 
-![temp](https://user-images.githubusercontent.com/56937181/181630489-f6c5a482-b0ba-472c-8b6e-9471f7026444.png)
+![temp](https://user-images.githubusercontent.com/56937181/185178005-4885d658-ee73-4fa4-a34f-d84c02396188.png)
 
 ## Outline
 We developed meta-scRNA-seq, a pipeline for unbiased detection of non-host transcriptomic information from scRNA-seq data. To achieve this, meta-scRNA-seq aligns scRNA-seq data against the host-genome reference using standard approaches, collected single-cell tagged unmapped reads, labeled them based on sequence similarity against a large metagenomic database, and demultiplexed the reads to generate a cell-by-metagenome count matrix in parallel with the standard cell-by-gene (host) matrix.
